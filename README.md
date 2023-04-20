@@ -1,5 +1,11 @@
 # beuta
 
+Experimental playground for join calculus 
+
+## Origin of the name 
+
+Beuta is the Italian name for the Erlenmeyer flask
+
 ## Run
 
 To run unit tests
