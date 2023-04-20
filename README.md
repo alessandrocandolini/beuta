@@ -2,7 +2,7 @@
 
 Experimental playground for join calculus 
 
-## Origin of the name 
+## Origin of the name 
 
 Beuta is the Italian name for the Erlenmeyer flask
 
